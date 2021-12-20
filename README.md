@@ -1,4 +1,4 @@
-# sign-language-detector
+# TensorFlow-Vue-Project: Linear Function Predictor
 
 ## Project setup
 ```
